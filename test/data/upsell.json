@@ -1,25 +1,4 @@
 {
   "items": [
-    {
-      "name": "Fruit Salad",
-      "posid": "10200",
-      "price": "4.00",
-      "calories": "95 cal",
-      "photo": "test/img/Fruit-Salad.png"
-    },
-    {
-      "name": "Beet + Feta",
-      "posid": "6100",
-      "price": "12.50",
-      "calories": "500 cal",
-      "photo": "test/img/Beet-and-Feta.png"
-    },
-    {
-      "name": "Rice + Beans",
-      "posid": "125170",
-      "price": "12.50",
-      "calories": "500 cal",
-      "photo": "test/img/Rice-and-Beans.png"
-    }
   ]
 }
